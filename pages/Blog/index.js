@@ -4,7 +4,7 @@ import { prefixLink } from 'gatsby-helpers'
 import Helmet from 'react-helmet'
 import { config } from 'config'
 
-export default class Index extends React.Component {
+export default class Blog extends React.Component {
   render () {
     return (
       <div>
