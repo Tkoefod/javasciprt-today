@@ -15,12 +15,12 @@ export default class Blog extends React.Component {
             {"name": "keywords", "content": "sample, something"},
           ]}
         />
-        <h1>
-          Hi people
-        </h1>
-        <p>Blog pages</p>
-        <h2>Below are some pages showing different capabilities built-in to Gatsby</h2>
-        <h3>Supported file types</h3>
+        <h3>Welcome to my Articles page</h3>
+        <h5> feel free to select an article from the right.</h5>
+        <p> If you are new to javaScript I recomend starting at the top
+          with <Link to={prefixLink('/Articles/00_getting_started/')}>Getting Started.</Link>
+
+        </p>
       </div>
     )
   }

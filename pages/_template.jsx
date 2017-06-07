@@ -15,6 +15,12 @@ module.exports = React.createClass({
     }
   },
   render () {
+    let fontSizeVar = '';
+    if (typeof window === 'undefined'){ //window might not be avilble because of server sider rendering
+      fontSizeVar = "9vw";
+    }else{
+      fontSizeVar = (window.innerWidth < 1500) ? "9vw" : "80px"
+    }
     return (
       <div>
         <Headroom
@@ -27,7 +33,7 @@ module.exports = React.createClass({
         >
           <Container
             style={{
-              maxWidth: 960,
+              maxWidth: 1960,
               paddingTop: 0,
               backgroundColor: "rgba(15,15,15,1)",
               padding: `${rhythm(1)} ${rhythm(3/4)}`,
@@ -44,7 +50,7 @@ module.exports = React.createClass({
                 backgroundColor: "rgb(15,15,15)",
                 textAlign: "center",
                 textShadow: "0px 0px 10px rgba(365,365,365,1)",
-                fontSize: "9vw",
+                fontSize: fontSizeVar,
                 whiteSpace: "nowrap",
                 width: "100%",
               }}>javascript-today.com</div>

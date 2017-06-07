@@ -17,10 +17,12 @@ export default class Index extends React.Component {
           ]}
         />
         <h1>
-          Welcome
+          Welcome to my new javaScript today site.
         </h1>
-        <p>Landing page</p>
-            <Link to={prefixLink('/indexOld/')}>old index page</Link>
+        <h5> I'll be writting a new article here about once a week on how to learn javaScript in today's javasScript world.</h5>
+        
+
+            Get started here: <Link to={prefixLink('/Articles/00_getting_started/')}>Getting Started.</Link>
       </div>
     )
   }

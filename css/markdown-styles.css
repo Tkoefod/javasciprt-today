@@ -1,3 +1,14 @@
+/*@bg-c1: rgba(15,15,15,1);
+@bg-c2: rgba(5,50,20,1);
+@fg-c1: rgba(30,30,30,1);
+@fg-c1: rgba(10,80,30,1);
+@fg-c2: rgba(255,255,255,0.75);
+@text-shadow: rgba(255,255,255,0.50);*/
+
+.markdown{
+  color: rgba(255,255,255,0.75);
+}
+
 .warning {
   color: #9F6000;
   background-color: #FEEFB3;
