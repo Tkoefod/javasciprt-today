@@ -19,8 +19,13 @@ export default class Index extends React.Component {
         <h1>
           Welcome to my new javaScript today site.
         </h1>
-        <h5> I'll be writting a new article here about once a week on how to learn javaScript in today's javasScript world.</h5>
-        
+        <h5> I'll be writting a new article here about once a week on how to
+          learn javaScript in today's javasScript world.</h5>
+          <p>
+            The first sevral articles will be presented in a lesson type
+            format that should allow people that are fairly new to javaScript
+            or programming to follow along and get started.
+          </p>
 
             Get started here: <Link to={prefixLink('/Articles/00_getting_started/')}>Getting Started.</Link>
       </div>
