@@ -1,11 +1,13 @@
 ---
 title: What you need to get started
 ---
+
 ##### What do you need to get started with javaScript and follow along with my articles?
 
 1. A computer, this doesn't have to be anything fast, super modern or specific.  Just about anything that can run a modern web browser will do.
 
 2. A text editor of some sort.  If you don't already have a favorite code editor a popular choice among javaScript programmers is [Atom](https://atom.io/).
+    - [List of many editors I have used through the years for different things.](http://koefod.us/wp/editors/)
 
 that's all you really need, fairly simple right?
 
@@ -33,5 +35,5 @@ that's all you really need, fairly simple right?
 
     <div class="nextArticle">
 
-    Next Article: [What you need to to get started](/Articles/02_what_you_need/)
+    Next Article: [What is the DOM](/Articles/03_what_is_the_DOM/)
     </div>
