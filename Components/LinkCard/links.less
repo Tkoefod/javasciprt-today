@@ -1,0 +1,32 @@
+@fg-c1: rgba(10,80,30,1);
+@fg-c2: rgba(255,255,255,0.75);
+
+.linkCardContainer{
+  display: flex;
+  flex: 1 0 auto;
+  flex-flow: column wrap;
+  background-color: white;
+  color: @fg-c1;
+  border-radius: 10px;
+  margin: 5px;
+  .linkCardContainerHeader{
+    background-color: @fg-c1;
+    color: rgb(0,0,0);
+    font-size: 22px;
+    text-align: center;
+    text-shadow: 0.5px 0.5px 1px white;
+    border-radius: 7px 7px 0 0;
+    padding: 5px;
+  }
+  .linkCardContainerDescription{
+    background-color: @fg-c2;
+    border-radius: 0 0 7px 7px;
+    padding: 5px;
+  }
+}
+
+.LinkCardsContainer{
+  display: flex;
+  flex-flow: wrap;
+  // background-color: white;
+}

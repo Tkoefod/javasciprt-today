@@ -21,18 +21,9 @@ These all return a type of object called `HTMLCollection` that is "live", meanin
   htmlCollection[0];  // is the first element
 ```
 
-#### non-live:
+the following are more computational expensive and less common.
 - `.querySelector()`
   * returns first match of a css selector
 - `.querySelectorAll()`
-  * returns all matches for a css selector
--
-
-... to be continued
-
-
-- `.createElement`
-
-- `document.body.appendChild(newElement)`
-
-- ``
+  * returns all matches for a css selector as a `HTMLCollection`
+``
