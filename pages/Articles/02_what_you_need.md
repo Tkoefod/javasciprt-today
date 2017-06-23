@@ -9,6 +9,9 @@ title: What you need to get started
 2. A text editor of some sort.  If you don't already have a favorite code editor a popular choice among javaScript programmers is [Atom](https://atom.io/).
     - [List of many editors I have used through the years for different things.](http://koefod.us/wp/editors/)
 
+3. A web browser.
+      - which web browser you use really don't matter much for this use whatever fits you as long as it has the ability to show you the console & an inspector, both [Firefox](https://www.mozilla.org/en-US/firefox/new/) & [Chrome](https://www.google.com/chrome/browser/desktop/index.html) are great at this.  I normally use [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) for a few extra nice tools it has but I will not be going into those at all.
+
 that's all you really need, fairly simple right?
 
 ----------

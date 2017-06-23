@@ -21,7 +21,7 @@ export default class Links extends React.Component {
           <LinkCard
             LinkTitle="My personal site"
             Link="http://thomaskoefod.com"
-            Description="this is the description"
+            Description="Minimal personal site"
           />
           <LinkCard
             LinkTitle="Notes on programming"

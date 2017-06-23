@@ -16,14 +16,19 @@ The main selectors are the following:
 - `.getElementsByClassName()`
 
 These all return a type of object called `HTMLCollection` that is "live", meaning that the collection will update if the DOM changes. Access to the DOM elements can be achieved through the index as in the following example where we get all "div" elements from the entire document:
-```
+``` javaScript
   let htmlCollection = document.getElementsByTagName('div');
   htmlCollection[0];  // is the first element
 ```
 
-the following are more computational expensive and less common.
+The following are more computational expensive and less common.
 - `.querySelector()`
   * returns first match of a css selector
 - `.querySelectorAll()`
   * returns all matches for a css selector as a `HTMLCollection`
 ``
+
+<div class="nextArticle">
+
+Next Article: [Reading From The The DOM](/Articles/05_Reading_DOM/)
+</div>
