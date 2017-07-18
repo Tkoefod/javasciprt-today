@@ -6,5 +6,5 @@ There is a lot to learn in modern javaScript Development but that shouldn't scar
 
 <div class="nextArticle">
 
-Next Article: [What Is javaScript](/Articles/01_whatIsJavascript/)
+Next Article: [What Is javaScript](/Learning/01_whatIsJavascript/)
 </div>

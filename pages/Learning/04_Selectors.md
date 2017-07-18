@@ -30,5 +30,5 @@ The following are more computational expensive and less common.
 
 <div class="nextArticle">
 
-Next Article: [Reading From The The DOM](/Articles/05_Reading_DOM/)
+Next Article: [Reading From The The DOM](/Learning/05_Reading_DOM/)
 </div>

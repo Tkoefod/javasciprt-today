@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import { config } from 'config'
 import '../../css/blog.less'
 
-export default class OtherBlog extends React.Component {
+export default class BlogTemp extends React.Component {
   _dispLinks(){
     let links = this.props.route.childRoutes.map( (route) => {
       return <div key={route.path}>

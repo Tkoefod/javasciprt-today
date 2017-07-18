@@ -34,5 +34,5 @@ I will be focusing on regular client side javaScript for the most part although 
 
 <div class="nextArticle">
 
-Next Article: [What you need to to get started](/Articles/02_what_you_need/)
+Next Article: [What you need to to get started](/Learning/02_what_you_need/)
 </div>

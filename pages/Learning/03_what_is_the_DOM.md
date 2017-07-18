@@ -12,5 +12,5 @@ It is important to keep in mind that the DOM is what the web-browser creates and
 
 <div class="nextArticle">
 
-Next Article: [Selectors](/Articles/04_Selectors/)
+Next Article: [Selectors](/Learning/04_Selectors/)
 </div>

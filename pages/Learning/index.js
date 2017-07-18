@@ -15,8 +15,12 @@ export default class Blog extends React.Component {
             {"name": "keywords", "content": "sample, something"},
           ]}
         />
-      <h3>Welcome to my learning javaScript articles</h3>
-        <h5> please select an article from the right.</h5>
+        <h3>Welcome to my Articles page</h3>
+        <h5> feel free to select an article from the right.</h5>
+        <p> If you are new to javaScript I recomend starting at the top
+          with <Link to={prefixLink('/Learning/00_getting_started/')}>Getting Started.</Link>
+
+        </p>
       </div>
     )
   }

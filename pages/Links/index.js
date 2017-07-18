@@ -16,7 +16,9 @@ export default class Links extends React.Component {
             {"name": "keywords", "content": "sample, something"},
           ]}
         />
-        <h3>LINKS</h3>
+      <h3 style={{
+          color: "white",
+        }}>LINKS</h3>
         <div className="LinkCardsContainer">
           <LinkCard
             LinkTitle="My personal site"

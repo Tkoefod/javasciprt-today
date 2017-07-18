@@ -16,7 +16,6 @@ export default class LinksTemp extends React.Component {
             {"name": "keywords", "content": "sample, something"},
           ]}
         />
-      <p>here be dragons</p>
       {this.props.children}
       </div>
     )

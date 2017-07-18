@@ -33,7 +33,8 @@ export default class LinkBar extends React.Component {
           alignContent: "space-around",
         }}>
         <div style={styleBarChildren}><Link to={prefixLink('/')}>Main</Link></div>
-        <div style={styleBarChildren}><Link to={prefixLink('/Articles/')}>Articles</Link></div>
+        <div style={styleBarChildren}><Link to={prefixLink('/Learning/')}>Learning javaScript</Link></div>
+        <div style={styleBarChildren}><Link to={prefixLink('/Articles/')}>Other Articles</Link></div>
         <div style={styleBarChildren}><Link to={prefixLink('/Links/')}>Links</Link></div>
       </div>
     )

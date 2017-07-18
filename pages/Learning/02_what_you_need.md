@@ -38,5 +38,5 @@ that's all you really need, fairly simple right?
 
     <div class="nextArticle">
 
-    Next Article: [What is the DOM](/Articles/03_what_is_the_DOM/)
+    Next Article: [What is the DOM](/Learning/03_what_is_the_DOM/)
     </div>
