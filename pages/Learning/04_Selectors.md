@@ -12,7 +12,7 @@ In the jQuery world of javaScript this is done with something that looks like `$
 
 The main selectors are the following:
 - `.getElementsByTagName()`
-- `.getElementByID()`
+- `.getElementById()`
 - `.getElementsByClassName()`
 
 These all return a type of object called `HTMLCollection` that is "live", meaning that the collection will update if the DOM changes. Access to the DOM elements can be achieved through the index as in the following example where we get all "div" elements from the entire document:

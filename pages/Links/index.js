@@ -33,7 +33,12 @@ export default class Links extends React.Component {
           <LinkCard
             LinkTitle="List of programming editors"
             Link="http://koefod.us/wp/editors/"
-            Description="list & links to lots of diffrent editors I have used."
+            Description="List & links to lots of diffrent editors I have used."
+          />
+          <LinkCard
+            LinkTitle="The Modern JavaScript Tutorial"
+            Link="https://javascript.info/"
+            Description="General modern javascript information in the form of a tutorial"
           />
         </div>
       </div>

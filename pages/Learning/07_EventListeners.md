@@ -12,3 +12,9 @@ Event Listeners are how you enable an element to respond to different events.  B
 * `onmouseover` -- when a user mouses over something
 * `onfocus` -- when a user puts the cursor in a form field
 * `onblur` -- When a user leaves a form field
+
+
+<div class="nextArticle">
+
+Next Article: [Variables](/Learning/08_variables/)
+</div>

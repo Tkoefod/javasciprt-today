@@ -7,3 +7,5 @@ title: Links
 [Some notes about and around programming that I have done in the past](http://koefod.us/wp/)
 
 [list of different editors I have used](http://koefod.us/wp/editors/)
+
+[The Modern JavaScript Tutorial](https://javascript.info/)

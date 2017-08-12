@@ -16,7 +16,7 @@ export default class Blog extends React.Component {
           ]}
         />
       <h3>Welcome to my learning javaScript articles</h3>
-        <h5> please select an article from the right.</h5>
+        <h5>This is a hodpodge of javaScript articles I have writen that do not fit into the learning javaScript series.</h5>
       </div>
     )
   }
