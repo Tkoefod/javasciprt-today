@@ -14,3 +14,8 @@ ___example:___
   console.log(txt1 + txt2);
 ```
 output: `something`
+
+<div class="nextArticle">
+
+Next Article: [String Methods](/Learning/11_methodsString/)
+</div>

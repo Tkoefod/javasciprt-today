@@ -27,7 +27,7 @@ export default class Index extends React.Component {
             or programming to follow along and get started.
           </p>
 
-            Get started here: <Link to={prefixLink('/Articles/00_getting_started/')}>Getting Started.</Link>
+            Get started here: <Link to={prefixLink('/Learning/00_getting_started/')}>Getting Started.</Link>
       </div>
     )
   }

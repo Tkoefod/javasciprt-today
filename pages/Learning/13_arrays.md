@@ -16,7 +16,9 @@ let exampleArray = [
 ```
 in the above example there are three array elements of object where the objects are defined within curly brackets (`{}`)
 
+Arrays also contain the useful property of `length` so that it is always quick and easy to get how many elements an array contains.
+
 <div class="nextArticle">
 
-Next Article: [String Operators](/Learning/15_arrayMethods/)
+Next Article: [Array Methods](/Learning/15_arrayMethods/)
 </div>
