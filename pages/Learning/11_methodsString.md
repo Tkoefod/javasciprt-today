@@ -26,7 +26,6 @@ title: Common String Methods
 
 `trim()`
 
-
 `fromCharCode`
 
 `normalize([form])`
